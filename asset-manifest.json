@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ailinnakaganeku/react-todo/static/css/main.c02d7396.chunk.css",
+    "main.js": "/ailinnakaganeku/react-todo/static/js/main.1e50cf05.chunk.js",
+    "main.js.map": "/ailinnakaganeku/react-todo/static/js/main.1e50cf05.chunk.js.map",
+    "runtime-main.js": "/ailinnakaganeku/react-todo/static/js/runtime-main.cc32662c.js",
+    "runtime-main.js.map": "/ailinnakaganeku/react-todo/static/js/runtime-main.cc32662c.js.map",
+    "static/js/2.d637ba57.chunk.js": "/ailinnakaganeku/react-todo/static/js/2.d637ba57.chunk.js",
+    "static/js/2.d637ba57.chunk.js.map": "/ailinnakaganeku/react-todo/static/js/2.d637ba57.chunk.js.map",
+    "index.html": "/ailinnakaganeku/react-todo/index.html",
+    "precache-manifest.98e3d6cc4e907646126d35d7907e60ce.js": "/ailinnakaganeku/react-todo/precache-manifest.98e3d6cc4e907646126d35d7907e60ce.js",
+    "service-worker.js": "/ailinnakaganeku/react-todo/service-worker.js",
+    "static/css/main.c02d7396.chunk.css.map": "/ailinnakaganeku/react-todo/static/css/main.c02d7396.chunk.css.map",
+    "static/js/2.d637ba57.chunk.js.LICENSE.txt": "/ailinnakaganeku/react-todo/static/js/2.d637ba57.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ailinnakaganeku/react-todo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc32662c.js",
+    "static/js/2.d637ba57.chunk.js",
+    "static/css/main.c02d7396.chunk.css",
+    "static/js/main.1e50cf05.chunk.js"
+  ]
+}
